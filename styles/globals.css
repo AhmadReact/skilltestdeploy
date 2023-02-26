@@ -45,5 +45,14 @@ body{
 .flex-col{
   flex-direction: column;
 }
+.btn{
+  all: unset;
+}
 
+@media screen and (max-width: 1100px) {
 
+  .right{
+    right: 15px;
+    left:0px !important;
+  }
+}
