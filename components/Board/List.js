@@ -14,7 +14,7 @@ const List = ({name,card}) => {
           <h3 className={styles.backlog}>
             {name}<span className={styles.span}>({card})</span>
           </h3>
-          <Image src="/Filter.svg" width={14} height={14}></Image>
+          <Image src="/Filters.svg" width={14} height={14}></Image>
           <Image src="/Vector.svg" width={14} height={14}></Image>
         </div>
         <div className="flex items-center">
