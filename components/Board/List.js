@@ -33,7 +33,7 @@ const List = ({name,card}) => {
         </div>
         <div className="flex justify-center">
         <div className={styles.addcard}>
-          <Image src="/plus2.svg" height={22} width={22} style={{margin:"0px 5px 0px 9px"}}></Image>Add Card
+          <Image src="/Plus2.svg" height={22} width={22} style={{margin:"0px 5px 0px 9px"}}></Image>Add Card
         </div> 
         </div>
      </div>
