@@ -6,7 +6,7 @@ const Workflow = () =>{
 
     return <div className={styles.workflow}>
         <div className="flex justify-center items-center" style={{columnGap:4}}>
-        <h1 className={styles.heading}>Workflow</h1>
+        <h1 className={styles.heading}>Workflow 2</h1>
         <div style={{marginLeft:"24px"}}>
         <BoardCircle src="/Workflow.svg"  bg="#0E8CFF" />
         </div>
